@@ -16,6 +16,7 @@ backend 文件夹下主要是最小二乘问题求解的一些函数定义。
 
 ``` c++
 cd CurveFitting_LM
+rm -rf build
 mkdir build
 cd build
 cmake ..
